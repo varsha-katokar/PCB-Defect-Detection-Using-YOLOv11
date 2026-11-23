@@ -1,0 +1,19 @@
+# Dataset
+datasets/
+data/
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment
+venv/
+.env
