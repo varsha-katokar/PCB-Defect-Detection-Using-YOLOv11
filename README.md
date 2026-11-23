@@ -72,7 +72,7 @@ PCB-Defect-Detection-Using-YOLOv11/
 Clone the repository:
 
 ```bash
-git clone https://github.com/varsha-katокar/PCB-Defect-Detection-Using-YOLOv11.git
+git clone https://github.com/varsha-katоkar/PCB-Defect-Detection-Using-YOLOv11.git
 ```
 
 Install the required dependencies:
