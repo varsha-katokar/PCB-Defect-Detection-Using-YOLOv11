@@ -27,13 +27,13 @@ The implementation uses the **SolDef AI dataset**, which contains PCB images wit
 
 ## Dataset
 
-The project uses the **SolDef AI dataset** for PCB surface defect detection.
+The project uses the SolDef AI PCB Dataset for PCB surface defect detection.
 
 The dataset contains PCB images and polygon-based JSON annotations.
 
-The original dataset is approximately 1 GB and is not included in this repository due to its size.
+Dataset Link: SolDef AI PCB Dataset – Kaggle
 
-Users must obtain the dataset separately and configure the dataset paths in the notebook.
+The dataset is not included in this repository due to its size. Download it separately and configure the dataset paths in the notebook before running the project.
 
 ## Defect Categories
 
@@ -91,4 +91,4 @@ pip install -r requirements.txt
 
 ## Note
 
-The dataset and trained model weights are not included in this repository due to their size. Users must configure the dataset paths before running the notebook.
+The dataset and trained model weights are not included in this repository. Download the dataset using the link provided above and configure the paths in the notebook before running it.
